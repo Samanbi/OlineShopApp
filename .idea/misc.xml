@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/bottom_nav_shape.xml" value="0.104" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/button_naw_shape.xml" value="0.1025" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/button_shape.xml" value="0.128" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/card_item_shape.xml" value="0.128" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/ic_outline_add_box_24.xml" value="0.103" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/ic_outline_indeterminate_check_box_24.xml" value="0.103" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/product_category_title_shape.xml" value="0.104" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_blog_details.xml" value="0.1" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_main.xml" value="0.2222222222222222" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_product.xml" value="0.17074275362318841" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_product_details.xml" value="0.14" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/blog_item_layout.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/card_item_layout.xml" value="0.25" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/drawer_hader_layiut.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/drawer_header_layout.xml" value="0.25" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/fram_basket.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/fram_blog.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/fram_home.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/fram_login.xml" value="0.17708333333333334" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/fram_product.xml" value="0.25" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/product_category_layout.xml" value="0.33" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/product_layout.xml" value="0.18" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/slider_image_layout.xml" value="0.1897644927536232" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/menu/buttom_nav_menu.xml" value="0.16" />
+        <entry key="..\:/programming/AndroidStudioProjects/OnlineShopApp/app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
